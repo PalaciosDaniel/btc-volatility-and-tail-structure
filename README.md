@@ -19,7 +19,10 @@ The analysis was conducted using Python with the following libraries:
 - **scipy** and **statsmodels**: for statistical tests, regressions, and autocorrelation analysis.
 
 ## Repository Structure
-
+.
+├── Bitcoin_log_returns_analysis.ipynb   # main Jupyter notebook
+├── README.md                            # project description
+└── LICENSE                              # license for the repository
 
 ## Key Findings
 - Bitcoin returns significantly deviate from Gaussian assumptions, showing **leptokurtic distributions** and heavy tails.  
